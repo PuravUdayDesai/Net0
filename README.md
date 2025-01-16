@@ -6,6 +6,11 @@
 
 An Energy trading platform where renewable energy gets traded between the producers and consumers without intermediate entities in a distributed environment using blockchain.
 
+# Code
+Mobile App Code in [app-code](https://github.com/PuravUdayDesai/Net0/tree/app-code) branch
+
+Back-end Code in [backend-code](https://github.com/PuravUdayDesai/Net0/tree/backend-code) branch
+
 # Problem Statement
 - Develop a P2P energy trading platform using blockchain.</li>
 - Minimize financial and environmental costs using smart contracts.</li>
